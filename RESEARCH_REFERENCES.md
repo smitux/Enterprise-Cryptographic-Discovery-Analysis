@@ -76,7 +76,7 @@ This document contains the key research papers, standards, and technical resourc
 
 **Relevance to ECDAT:** Reference for post-quantum key establishment recommendations.
 
-[NIST FIPS 203](https://csrc.nist.gov/pubs/fips/203/final)
+[NIST FIPS 2023](https://csrc.nist.gov/pubs/fips/203/final)
 
 ### FIPS 204 — ML-DSA
 
@@ -84,7 +84,7 @@ This document contains the key research papers, standards, and technical resourc
 
 **Relevance to ECDAT:** Reference for post-quantum digital signature recommendations.
 
-[NIST FIPS 204](https://csrc.nist.gov/pubs/fips/204/final)
+[NIST FIPS 2024](https://csrc.nist.gov/pubs/fips/204/final)
 
 ---
 
