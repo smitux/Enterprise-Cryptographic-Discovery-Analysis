@@ -48,7 +48,7 @@ PQC Recommendation
        ↓
 Migration Prioritization
 
-Key Capabilities
+## Key Capabilities
 1. Cryptographic Discovery
 
 ECDAT is designed to identify cryptographic usage from supported inputs and environments.
