@@ -47,3 +47,17 @@ Quantum Risk Assessment
 PQC Recommendation
        ↓
 Migration Prioritization
+
+Key Capabilities
+1. Cryptographic Discovery
+
+ECDAT is designed to identify cryptographic usage from supported inputs and environments.
+
+Examples include:
+
+Cryptographic algorithms
+Key sizes
+Certificates
+TLS configurations
+Cryptographic libraries
+Software dependencies
